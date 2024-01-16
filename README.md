@@ -1,6 +1,3 @@
-- 👋 Hi, My name is Diego Fernando Argote Oritz and I want you to know more about me.
-- 👀 I'm interested in learning and contributing with my daily work.
-- 🌱 Every day I learn something new about the vast world of programming, currently I have taken courses in HTML, CSS, JavaScript, React and SQL.
  - 💼 If you want to know about my work and my studies, I invite you to visit my Linkedln profile:
   * www.linkedin.com/in/diego-fernando-argote-ortiz
 - You can contact me through:
@@ -36,19 +33,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 👀 I'm interested in learning and contributing with my daily work.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 Every day I learn something new about the vast world of programming, currently I have taken courses in HTML, CSS, JavaScript, React and SQL.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💼 If you want to know about my work and my studies, I invite you to visit my Linkedln profile ** www.linkedin.com/in/diego-fernando-argote-ortiz**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 📫 Feel free to reach me out **ego.argote@hotmail.com**
 <!--Intro end-->
 
 
