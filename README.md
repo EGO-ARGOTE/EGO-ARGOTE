@@ -13,7 +13,7 @@
 
 <!--imagen-->
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdnY3lwaThybzY2MThxMGN4M2FpZjFzZnVkOTQzOXB2d2VkM2kxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"/>
+  <img style="width:8rem; height:auto" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif"/>
 </p>
 
 
