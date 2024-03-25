@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 👀 I'm interested in learning and contributing with my daily work.
 
-- 🌱 Every day I learn something new about the vast world of programming, currently I have taken courses in HTML, CSS, JavaScript, React and SQL.
+- 🌱 Every day I learn something new about the vast world of programming, currently I have taken courses in HTML, CSS, JavaScript, React, SQL and Python.
 
 - 💼 If you want to know about my work and my studies, I invite you to visit my Linkedln profile: www.linkedin.com/in/diego-fernando-argote-ortiz
 
