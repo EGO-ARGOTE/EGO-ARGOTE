@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 👀 I'm interested in learning and contributing with my daily work.
 
-- 🌱 Every day I learn something new about the vast world of programming, currently I have taken courses in HTML, CSS, JavaScript, React, SQL, Python, Git and GitHub.
+- 🌱 Every day I learn something new about the vast world of programming, currently I have taken courses in HTML, CSS, JavaScript, React, SQL, Python, Git, GitHub, Scrum and Typescript.
 
 - 💼 If you want to know about my work and my studies, I invite you to visit my Linkedln profile: www.linkedin.com/in/diego-fernando-argote-ortiz
 
@@ -47,7 +47,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,mysql,git,github,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,postman,vscode,typescript,scrum&perline=14" />
   </a>
 </p>
 
